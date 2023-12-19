@@ -1,2 +1,3 @@
+import streamlit
 
-streamkit.title('test')
+streamlit.title('test')
